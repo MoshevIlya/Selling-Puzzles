@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+body{
+    font-family: Ubuntu, sans-serif;
+    background: linear-gradient(67deg, #6B50CE 0%, #3F1482 100%);
+
+}
+
+.nav-link{
+    color:aqua;
+}
+
+.navbar-nav .nav-link.active{
+    color: aqua;
+}
+
+.navbar-brand img{
+    width: 45px;
+}
+
+.navbar-toggler{
+    background-color: rgb(143, 142, 143);
+}
+
+.sidebar,{
+    color: aqua;
+    background: linear-gradient(90deg, #6B50CE 0%, #3F1482 100%);
+}
+
